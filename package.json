@@ -1,0 +1,22 @@
+{
+  "name": "localizationtesting",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Saran",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.55.1",
+    "@percy/cypress": "^3.1.6",
+    "axios": "^1.12.2",
+    "cypress": "^15.2.0",
+    "cypress-mochawesome-reporter": "^4.0.2"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
